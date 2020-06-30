@@ -1,7 +1,7 @@
 ### General
 
 Linear systems in these directories are from ACOPF problems (NOT security constrained)
-on the [RTS-GMLC] (https://github.com/GridMod/RTS-GMLC) (abbreviated as RTS) from the IPOPT solver.
+on the [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) (abbreviated as RTS) from the IPOPT solver.
 There are two different ACOPF problems: one with a single period and the other with two time periods.
 The objective function is linear in both problems.  Both directories include matrices (all named like
 "matrix\_") and right-hand sides (all named like "rhs\_") an entire run of IPOPT for
