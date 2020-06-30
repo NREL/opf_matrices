@@ -1,5 +1,5 @@
 These linear systems are generated from AC (stochastic and/or multiperiod) Economic Dispatch problems for the 
-[ACTIVSg2000] (https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg2000/)
+[ACTIVSg2000](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg2000/)
 (also called TAMU2000) network.
 
 Linear system size can be estimated in the following way:
