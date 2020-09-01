@@ -12,6 +12,9 @@ directory contains security constrained AC optimal power flow problems.  Additio
 details can be found in the READMEs in those directories as well as the individual 
 case directories.
 
+Note: The repository is quite large and uses Git LFS. If you plan to clone the repository, you will need to
+install it.
+
 ### Matching Right-Hand Side with a Matrix
 
 Both right-hand sides and matrices are in [Matrix Market format](https://math.nist.gov/MatrixMarket/formats.html).
