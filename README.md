@@ -32,3 +32,7 @@ Then the corresponding matrix should have the header
 % ID: 70
 ```
 so the ID field in both files match.
+
+### Authors
+
+This repository was created by Shrirang Abhyankar of PNNL and Jonathan Maack of NREL.
