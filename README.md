@@ -36,3 +36,12 @@ so the ID field in both files match.
 ### Authors
 
 This repository was created by Shrirang Abhyankar of PNNL and Jonathan Maack of NREL.
+
+### Citation
+
+If you use the matrices in the `acopf` directory, please include the following citation
+```
+Maack, Jonathan. 2023. Optimal Power Flow Derived Sparse Linear Solver Benchmarks.
+Golden, CO: National Renewable Energy Laboratory. NREL/TP-2C00-86931.
+https://www.nrel.gov/docs/fy24osti/86931.pdf. 
+```
